@@ -4,7 +4,7 @@ I am a Data Scienist in Los Angeles focus in financial industry. i maximum to po
 
 ### Projects
 
-[Ridiculous supreme product and their resell price](supreme)
+[Supreme products and their resale price](supreme)
 
 ### Contact
 
